@@ -1,0 +1,21 @@
+{
+  "name": "ubiapps-api-remoteManagement"
+, "publishConfig": { "tag": "alpha" }
+, "description": "Remote management API"
+, "keywords": ["ubiapps", "remote management" , "API"]
+, "version": "0.0.1"
+, "homepage": "http://ubiapps.com/"
+, "author": "Toby Ealden <toby.ealden@gmail.com>"
+, "repository":
+  { "type": "git"
+  , "url": "https://github.com/ubiapps/ubiapps-api-remoteManagement.git"
+  }
+, "bugs":
+  { "email": "bugs@ubiapps.com"
+  , "url": ""
+  }
+, "directories": { "lib": "./lib"}
+, "main": "./lib/rpc_remoteManagement.js"
+, "dependencies": {}
+, "bundleDependencies": []
+}
